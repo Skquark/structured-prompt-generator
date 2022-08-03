@@ -15,8 +15,9 @@ Made to construct well formed complex text prompts for Disco Diffusion and other
 *   Select which modifiers to apply to improve results, with list of positive and negative attributes
 *   Use variables for random nouns, adjectives, colors, styles, and other useful terms in your creations
 *   Generate prompt lists that can be used for batch image creations, animation timelines or other art making tools
+*   Runs on Colab with CPU instead of GPU runtime, so you can play with it while you're Diffusing in other window
 
-You can also use our *DiscoArt* fork that has all this built in, and more features to batch render the generated list. Access it here: https://colab.research.google.com/drive/10Yh4c_cTlXlQ58ako4hxz6iEFL5W9Udk#scrollTo=plo-8Pxjb3ui
+You can also use our *DiscoArt* fork that has all this built in, and more features to batch render the generated list. Access it here: https://colab.research.google.com/drive/10Yh4c_cTlXlQ58ako4hxz6iEFL5W9Udk
 
 ---
 ***Credits:***
